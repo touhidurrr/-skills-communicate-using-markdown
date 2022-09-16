@@ -15,4 +15,4 @@ alert('New Alert!');
 - [x] Added an Image
 - [x] Added some code blocks
 - [x] Added a Task List
-
+- [ ] Merged the Pull Request
