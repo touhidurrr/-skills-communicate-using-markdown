@@ -11,3 +11,8 @@
 alert('New Alert!');
 ```
 
+- [x] Added some headers
+- [x] Added an Image
+- [x] Added some code blocks
+- [x] Added a Task List
+
